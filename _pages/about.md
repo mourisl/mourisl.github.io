@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! My name is Li Song, a research fellow in [Shirley Liu](https://liulab-dfci.github.io/)'s lab at Department of Data Science in Dana-Farber Cancer Insitute. My research interest is to design algorithms and developing methods to analyze sequencing data. I obtained my Ph.D degree in Computer Science from Johns Hopkins University. 
 
-Projects
+Software
 ======
 **TRUST4**: TCR/BCR assembler for RNA-seq data. TRUST4 can be applied on either bulk or single-cell RNA-seq data. In addition to report CDR3s, TRUST4 also assembles full-length TCRs/BCRs. \[[Github](https://github.com/liulab-dfci/TRUST4)\]
 
