@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! My name is Li Song. My research interest is to design algorithms and developing methods to analyze sequencing data. I am currently a research fellow in Shirley Liu's lab at Department of Data Science in Dana-Farber Cancer Insitute. I obtained my Ph.D degree in Computer Science from Johns Hopkins University. 
 
-A data-driven personal website
+Projects
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+TRUST4: TCR/BCR assembler for RNA-seq data. TRUST4 can be applied on either bulk or single-cell RNA-seq data. In addition to report CDR3s, TRUST4 also assembles full-length TCRs/BCRs. [Github](https://github.com/liulab-dfci/TRUST4)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+CLASS/CLASS2: Efficient and accurate transcript assemblers for RNA-seq data that detect more fine-grained alternative splice variants. The programs combine linear programming algorithms to detect exons from read coverage levels, with splice graph representations of genes and their splice variants, and memory efficient optimization algorithms for transcript selection. [SourceForge](https://sourceforge.net/projects/splicebox/)[Github](https://github.com/mourisl/CLASS)
 
-Getting started
+PsiCLASS: Simultaneous multi-sample transcript assembler for RNA-seq data. It builds a global data structure representing the structure of the transcripts, from which each sample generates its expressed transcripts. The global information allows accurate sample-wise assemblies and final meta-assembly. [Github](https://github.com/splicebox/PsiCLASS)
+
+Lighter: Fast and memory-efficient k-mer-based software to correct the sequencing errors from whole genome sequencing data without counting. It samples the k-mers in the data set and uses two memory-efficient Bloom filters to obtain solid k-mers. [Github](https://github.com/mourisl/Lighter)
+
+Rcorrector: Efficient and accurate k-mer-based error correction software for Illumina RNA-seq reads. It can also be applied to data sets where the read coverage is non-uniform, such as single-cell sequencing. [Github](https://github.com/mourisl/Rcorrector)
+
+Rascaf: Scaffolding with RNA-seq read alignment. It uses information from paired-end and split reads to improve the completeness and contiguity of a draft genome assembly, particularly in the gene regions. [Github](https://github.com/mourisl/Rascaf)
+
+Centrifuge: Fast and memory-efficient classifier for metagenomics sequences using an FM-index. It requires only 4.2 Gb memory for a database containing ~4300 prokaryotic genomes. [Github](https://github.com/DaehwanKimLab/centrifuge)
+
+Chromap: Ultrafast alignment and preprocessing for chromatin profiling sequencing data, including ChIP-seq, ATAC-seq and Hi-C. It supports both bulk and single-cell platforms, and is more than 10 times faster than traditional workflows without sacrificing alignment accuracy. [Github](https://github.com/haowenz/chromap)
+
+
+
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Song, L**,  Cohen, D, Ouyang, Z, Cao, Y, Hu, X, and Liu, XS, TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data. Nat Methods. 2021 Jun;18(6):627-630. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33986545/)
+**Song, L**, Sabunciyan, S, Yang, G and Florea, L, A multi-sample approach increases the accuracy of transcript assembly. Nat Commun. 2019; 10: 5000 [PubMed](https://pubmed.ncbi.nlm.nih.gov/31676772/)
+Zhang, J, Hu, X, …, **Song, L**, …, Liu, XS, Immune receptor repertoires in pediatric and adult acute myeloid leukemia. Genome Med. 2019 Nov 26;11(1):73. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31771646/)
+You, Y, **Song, L**, Nonyane, BAS, Price, LB, Silbergeld EK, Genomic differences between nasal Staphylococcus aureus from hog slaughterhouse workers and their communities, PLoS One. 2018 Mar 6;13(3):e0193820. [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5839586/)
+Miller, JR, Zhou, P, Mudge, J, …, **Song, L**, ..., Silverstein, KAT, Hybrid assembly with long and short reads improves discovery of gene family expansions, BMC Genomics. 2017;18(1):541. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28724409/)
+**Song, L**, Sabunciyan, S and Florea, L, CLASS2: accurate and efficient splice variant annotation from RNA-seq reads, Nucleic Acids Res. 2016;44(10):e98. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26975657)
+**Song, L**, Shankar, D and Florea, L, Rascaf: improving genome assembly with RNA-seq data, Plant Genome. 2016;9(3). [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27902792)
+Kim, D, **Song, L** *, Breitweiser, FP and Salzberg, SL, Centrifuge: rapid and sensitive classification of metagenomic sequences, Genome Res. 2016; 26(12): 1721–1729. [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5131823/) (*co-first author) 
+**Song, L** and Florea, L, Rcorrector: efficient and accurate error correction for Illumina RNA-seq reads, Gigascience. 2015;4:48. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26500767)
+**Song, L**, Florea, L and Langmead, B, Lighter: fast and memory-efficient sequencing error correction without Counting, Genome Biol. 2014;15(11):509. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25398208)
+**Song, L** and Florea, L, CLASS: constrained transcript assembly of RNA-seq reads, Third Annual RECOMB Satellite Workshop on Massively Parallel Sequencing - RECOMB-SEQ 2013, BMC Bioinformatics 14(Suppl 5):S14. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23734605)
+Florea, L, **Song, L** and Salzberg, SL, Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues, F1000 Research 2013, 2:188. [Full text](http://f1000research.com/articles/2-188/v1)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Preprints
+======
+Zhang, H, **Song, L** *, …, Liu, XS, Li, H, Fast alignment and preprocessing of chromatin profiles with Chromap. bioRxiv 2021.06.18.448995. [Full text](https://www.biorxiv.org/content/10.1101/2021.06.18.448995v1) (*co-first author)
