@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Li Song. My research interest is to design algorithms and developing methods to analyze sequencing data. I am currently a research fellow in Shirley Liu's lab at Department of Data Science in Dana-Farber Cancer Insitute. I obtained my Ph.D degree in Computer Science from Johns Hopkins University. 
+Hi! My name is Li Song, a research fellow in [Shirley Liu](https://liulab-dfci.github.io/)'s lab at Department of Data Science in Dana-Farber Cancer Insitute. My research interest is to design algorithms and developing methods to analyze sequencing data. I obtained my Ph.D degree in Computer Science from Johns Hopkins University. 
 
 Projects
 ======
