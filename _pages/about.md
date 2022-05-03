@@ -58,4 +58,4 @@ Florea, L, **Song, L** and Salzberg, SL, *Thousands of exon skipping events diff
 
 Manuscripts under review
 ======
-**Song, L**, Ouyang, Z, Cohen, D, Yang, C, …, Liu, XS, *Comprehensive characterizations of immune receptor repertoire in tumors and cancer immunotherapy studies*. (Under review)
+**Song, L**, Ouyang, Z, Cohen, D, Yang, C, …, Liu, XS, *Comprehensive characterizations of immune receptor repertoire in tumors and cancer immunotherapy studies*. 2022 (Accepted)
