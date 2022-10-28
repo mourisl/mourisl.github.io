@@ -14,6 +14,8 @@ Software
 ======
 **TRUST4**: TCR/BCR assembler for RNA-seq data. TRUST4 can be applied on either bulk or single-cell RNA-seq data. In addition to report CDR3s, TRUST4 also assembles full-length TCRs/BCRs. \[[Github](https://github.com/liulab-dfci/TRUST4)\]
 
+**T1K**: Genotyper for highly polymorphic genes including KIR and HLA. T1K is verstile and works with RNA-seq, WGS and WES data. T1K also identifies novel SNPs and is compatible with single-cell RNA-seq data. \[[Github](https://github.com/mourisl/T1K)\]
+
 **CLASS/CLASS2**: Efficient and accurate transcript assemblers for RNA-seq data that detect more fine-grained alternative splice variants. The programs combine linear programming algorithms to detect exons from read coverage levels, with splice graph representations of genes and their splice variants, and memory efficient optimization algorithms for transcript selection. \[[SourceForge](https://sourceforge.net/projects/splicebox/)\]\[[Github](https://github.com/mourisl/CLASS)\]
 
 **PsiCLASS**: Simultaneous multi-sample transcript assembler for RNA-seq data. It builds a global data structure representing the structure of the transcripts, from which each sample generates its expressed transcripts. The global information allows accurate sample-wise assemblies and final meta-assembly. \[[Github](https://github.com/splicebox/PsiCLASS)\]
@@ -57,4 +59,8 @@ Kim, D, **Song, L** \*, Breitweiser, FP and Salzberg, SL, *Centrifuge: rapid and
 **Song, L** and Florea, L, *CLASS: constrained transcript assembly of RNA-seq reads*, Third Annual RECOMB Satellite Workshop on Massively Parallel Sequencing - RECOMB-SEQ 2013, BMC Bioinformatics 14(Suppl 5):S14. \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23734605)\]
 
 Florea, L, **Song, L** and Salzberg, SL, *Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues*, F1000 Research 2013, 2:188. \[[Full text](http://f1000research.com/articles/2-188/v1)\]
+
+Preprints
+======
+**Song, L**, Bai, G, Liu, XS, Li, B, Li, H, *T1K: efficient and accurate KIR and HLA genotyping with next-generation sequencing data*. Biorxiv. 2022 \[[Biorxiv](https://www.biorxiv.org/content/10.1101/2022.10.26.513955v1)\]
 
