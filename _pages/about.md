@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Li Song, an Assistant Professor at the Department of Biomedical Data Science at Geisel School of Medicine at Dartmouth. My research interest is to design algorithms and developing methods to analyze sequencing data. I obtained my Ph.D degree in Computer Science from Johns Hopkins University (Advisor: [Liliana Florea](http://florealab.org/)). I have been trained as a postdoc in [Shirley Liu](https://liulab-dfci.github.io/) lab and [Heng Li](https://hlilab.github.io/) lab at the Department of Data Science in Dana-Farber Cancer Insitute. 
+Hi! My name is Li Song, an Assistant Professor at the [Department of Biomedical Data Science](https://geiselmed.dartmouth.edu/bmds/) at Geisel School of Medicine at Dartmouth. My research interest is to design algorithms and developing methods to analyze sequencing data. I obtained my Ph.D degree in Computer Science from Johns Hopkins University (Advisor: [Liliana Florea](http://florealab.org/)). I have been trained as a postdoc in [Shirley Liu](https://liulab-dfci.github.io/) lab and [Heng Li](https://hlilab.github.io/) lab at the Department of Data Science in Dana-Farber Cancer Insitute. 
 
 Software
 ======
