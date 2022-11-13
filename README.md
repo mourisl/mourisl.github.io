@@ -1,4 +1,4 @@
-# Xiaole Shirley Liu Lab Webpage
+# Li Song Lab Webpage
 
 ### Table of contents
 
@@ -8,11 +8,10 @@
 - [News & Events](#news_and_events)
 - [People](#people)
 - [Publications](#publications)
-- [Teaching](#teaching)
-- [Careers](#careers)
+- [Open Positions](#open positions)
 - [Contact](#contact)
 
-This webpage is built based on the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme) framework. For files end with `.html`, you may need to make some change based on HTML and [Bootstrap](https://getbootstrap.com/). For files end with `.md`, both HTML and Markdown are acceptable.
+This webpage is built based on the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme) framework. For files end with `.html`, you may need to make some change based on HTML and [Bootstrap](https://getbootstrap.com/). For files end with `.md`, both HTML and Markdown are acceptable. It is adapted from https://github.com/liulab-dfci/liulab-dfci.github.io .
 
 
 ## Files
@@ -44,9 +43,9 @@ The Publications is located at `pages/publications.md`.
 
 Then Teaching is located at `pages/teaching.md`
 
-## Careers
+## Open positions
 
-The Careers is located at `pages/careers.md`.
+The Careers is located at `pages/open_positions.md`.
 
 ## Contact
 
