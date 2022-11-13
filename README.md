@@ -8,7 +8,7 @@
 - [News & Events](#news_and_events)
 - [People](#people)
 - [Publications](#publications)
-- [Open Positions](#open positions)
+- [Open Positions](#career)
 - [Contact](#contact)
 
 This webpage is built based on the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme) framework. For files end with `.html`, you may need to make some change based on HTML and [Bootstrap](https://getbootstrap.com/). For files end with `.md`, both HTML and Markdown are acceptable. It is adapted from https://github.com/liulab-dfci/liulab-dfci.github.io .
@@ -39,11 +39,11 @@ To add people, you can just add a `md` file in `_people` named by `lastname_firs
 
 The Publications is located at `pages/publications.md`.
 
-### Teaching
+## Teaching
 
 Then Teaching is located at `pages/teaching.md`
 
-## Open positions
+## <a name="career"></a>Open positions
 
 The Careers is located at `pages/open_positions.md`.
 
