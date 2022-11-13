@@ -10,10 +10,10 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more deJtails<br>
 \# Co-First authors; \* Co-corresponding authors
 ## Journal Publications
-- **Song L**, Ouyang Z, Cohen D, Yang C, …, Liu XS, *Comprehensive characterizations of immune receptor repertoire in tumors and cancer immunotherapy studies*. 2022 May 23;canimm.0965.2021. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/35605261/)\]
+- **Song L**, Ouyang Z, Cohen D, Yang C, …, Liu XS, *Comprehensive characterizations of immune receptor repertoire in tumors and cancer immunotherapy studies*. Cancer Immunol Res. 2022 Jul 1;10(7):788-799. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/35605261/)\]
 - **Song L**,  Cohen, D, Ouyang, Z, Cao, Y, Hu, X and Liu, XS, *TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data*. Nat Methods. 2021 Jun;18(6):627-630. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/33986545/)\]
 - Zhang H, **Song L#**, …, Liu XS, Li H, *Fast alignment and preprocessing of chromatin profiles with Chromap*. Nat Commun. 2021 Nov 12;12(1):6566. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/34772935/)\] 
-- **Song L**, Sabunciyan S, Yang G and Florea L, *A multi-sample approach increases the accuracy of transcript assembly*. Nat Commun. 2019 Nov 1;10(1):5000.  \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/31676772/)\]
+- **Song L**, Sabunciyan S, Yang G and Florea L, *A multi-sample approach increases the accuracy of transcript assembly*. Nat Commun. 2019 Nov 1;10(1):5000. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/31676772/)\]
 - Zhang J, Hu X, …, **Song L**, …, Liu XS, *Immune receptor repertoires in pediatric and adult acute myeloid leukemia*. Genome Med. 2019 Nov 26;11(1):73. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/31771646/)\]
 - You Y, **Song L**, Nonyane, BAS, Price, LB, Silbergeld EK, *Genomic differences between nasal Staphylococcus aureus from hog slaughterhouse workers and their communities*, PLoS One. 2018 Mar 6;13(3):e0193820. \[[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5839586/)\]
 - Miller JR, Zhou P, Mudge J, …, **Song L**, ..., Silverstein KAT, *Hybrid assembly with long and short reads improves discovery of gene family expansions*, BMC Genomics. 2017;18(1):541. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/28724409/)\]
