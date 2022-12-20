@@ -10,7 +10,7 @@ permalink: /software/
 - [**GitHub**](https://github.com/mourisl) &nbsp;
 
 ### Immunology
-- [**TRUST4**](https://github.com/liulab-dfci/TRUST4): TCR/BCR assembler for RNA-seq data. TRUST4 can be applied on either bulk or single-cell RNA-seq data. In addition to report CDR3s, TRUST4 also assembles full-length TCRs/BCRs. 
+- [**TRUST4**](https://github.com/liulab-dfci/TRUST4): TCR/BCR assembler for RNA-seq data. TRUST4 can be applied on either bulk or single-cell RNA-seq data. In addition to report CDR3s, TRUST4 also assembles full-length TCRs/BCRs. [![](https://img.shields.io/static/v1?label=AIRR-C%20sw-tools%20v1&message=compliant&color=008AFF&labelColor=000000&style=plastic)](https://docs.airr-community.org/en/stable/swtools/airr_swtools_standard.html) 
 - [**T1K**](https://github.com/mourisl/T1K): Genotyper for highly polymorphic genes including KIR and HLA. T1K is verstile and works with RNA-seq, WGS and WES data. T1K also identifies novel SNPs and is compatible with single-cell RNA-seq data.
 
 ### RNA-seq 
