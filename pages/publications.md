@@ -7,7 +7,7 @@ permalink: /publication
 
 # Publications
 
-You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more deJtails<br>
+You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more details<br>
 \# Co-First authors; \* Co-corresponding authors
 ## Journal Publications
 - **Song L**, Ouyang Z, Cohen D, Yang C, …, Liu XS, *Comprehensive characterizations of immune receptor repertoire in tumors and cancer immunotherapy studies*. Cancer Immunol Res. 2022 Jul 1;10(7):788-799. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/35605261/)\]
