@@ -6,6 +6,9 @@ permalink: /news
 
 # News and Events
 ## 2023
+### July
+- Two Dartmouth QBS master students, Miaomiao Fu and Jennifer Liu, join the lab for their summer capstone projects on immune repertoire analysis. Welcome!
+
 ### May
 - The manuscript of [T1K](https://github.com/mourisl/T1K) for KIR and HLA genoptying is [online at Genome Research](https://genome.cshlp.org/content/early/2023/05/11/gr.277585.122.abstract#xref-corresp-1-1)!
 - Li presents the computational method, T1K, for KIR and HLA genotyping at the Biology of Genome 2023 conference at CSHL.
