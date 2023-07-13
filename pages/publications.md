@@ -10,6 +10,8 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more details<br>
 \# Co-First authors; \* Co-corresponding authors
 ## Journal Publications
+- **Song L**, Bai G, Liu XS, Li B and Li H, *Efficient and accurate KIR and HLA genotyping with massive parallel sequencing data*. Genome Res. 2023 May 11. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/)\]
+- Yang L, Wang J, Altreuter J, Jhaveri Ashna, ?~@? **Song L**, ?~@?, Liu Y, Liu XS, *Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA*. Nat Protoc. 2023 Jun 30. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37391666/)\]
 - **Song L**, Ouyang Z, Cohen D, Yang C, …, Liu XS, *Comprehensive characterizations of immune receptor repertoire in tumors and cancer immunotherapy studies*. Cancer Immunol Res. 2022 Jul 1;10(7):788-799. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/35605261/)\]
 - **Song L**,  Cohen, D, Ouyang, Z, Cao, Y, Hu, X and Liu, XS, *TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data*. Nat Methods. 2021 Jun;18(6):627-630. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/33986545/)\]
 - Zhang H, **Song L#**, …, Liu XS, Li H, *Fast alignment and preprocessing of chromatin profiles with Chromap*. Nat Commun. 2021 Nov 12;12(1):6566. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/34772935/)\] 
@@ -25,6 +27,4 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEE
 - **Song L** and Florea L, *CLASS: constrained transcript assembly of RNA-seq reads*, Third Annual RECOMB Satellite Workshop on Massively Parallel Sequencing - RECOMB-SEQ 2013, BMC Bioinformatics 14(Suppl 5):S14. \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23734605)\]
 - Florea L, **Song L** and Salzberg SL, *Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues*, F1000 Research 2013, 2:188. \[[Full text](http://f1000research.com/articles/2-188/v1)\]
 
-## Preprints
-**Song L**, Bai G, Liu XS, Li B and Li H, *T1K: efficient and accurate KIR and HLA genotyping with next-generation sequencing data*. Biorxiv. 2022 \[[Biorxiv](https://www.biorxiv.org/content/10.1101/2022.10.26.513955v1)\]
 
