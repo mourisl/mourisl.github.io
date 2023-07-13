@@ -11,7 +11,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEE
 \# Co-First authors; \* Co-corresponding authors
 ## Journal Publications
 - **Song L**, Bai G, Liu XS, Li B and Li H, *Efficient and accurate KIR and HLA genotyping with massive parallel sequencing data*. Genome Res. 2023 May 11. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/)\]
-- Yang L, Wang J, Altreuter J, Jhaveri Ashna, ..., **Song L**, ..., Liu Y, Liu XS, *Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA*. Nat Protoc. 2023 Jun 30. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37391666/)\]
+- Yang L, Wang J, Altreuter J, Jhaveri A, ..., **Song L**, ..., Liu Y, Liu XS, *Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA*. Nat Protoc. 2023 Jun 30. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37391666/)\]
 - **Song L**, Ouyang Z, Cohen D, Yang C, ..., Liu XS, *Comprehensive characterizations of immune receptor repertoire in tumors and cancer immunotherapy studies*. Cancer Immunol Res. 2022 Jul 1;10(7):788-799. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/35605261/)\]
 - **Song L**,  Cohen, D, Ouyang, Z, Cao, Y, Hu, X and Liu, XS, *TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data*. Nat Methods. 2021 Jun;18(6):627-630. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/33986545/)\]
 - Zhang H, **Song L#**, ..., Liu XS, Li H, *Fast alignment and preprocessing of chromatin profiles with Chromap*. Nat Commun. 2021 Nov 12;12(1):6566. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/34772935/)\] 
