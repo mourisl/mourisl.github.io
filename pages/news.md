@@ -7,7 +7,7 @@ permalink: /news
 # News and Events
 ## 2023
 #### August
-- Li joins the Department of Computer Science at Dartmouth College as an Adjunct Assistant Professor! [CS faculty page](https://web.cs.dartmouth.edu/people/li-song)
+- Li joins the Department of Computer Science at Dartmouth College as an Adjunct Assistant Professor! ([CS faculty page](https://web.cs.dartmouth.edu/people/li-song))
 
 #### July
 - Two Dartmouth QBS master students, Miaomiao Fu and Jennifer Liu, join the lab for their summer capstone projects on immune repertoire analysis. Welcome!
