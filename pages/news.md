@@ -6,6 +6,9 @@ permalink: /news
 
 # News and Events
 ## 2023
+#### September
+- Yifei Gao joins the lab for her Dartmouth QBS PhD rotation. Welcome!
+
 #### August
 - Li joins the Department of Computer Science at Dartmouth College as an Adjunct Assistant Professor! ([CS faculty page](https://web.cs.dartmouth.edu/people/li-song))
 
