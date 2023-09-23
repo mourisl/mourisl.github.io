@@ -7,6 +7,7 @@ permalink: /news
 # News and Events
 ## 2023
 #### September
+- Two Dartmouth QBS master students, Mingliang Ge and Park Lambert, join the lab as research assistants. Welcome!
 - Yifei Gao joins the lab for her Dartmouth QBS PhD rotation. Welcome!
 
 #### August
