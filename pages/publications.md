@@ -27,4 +27,5 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEE
 - **Song L** and Florea L, *CLASS: constrained transcript assembly of RNA-seq reads*, Third Annual RECOMB Satellite Workshop on Massively Parallel Sequencing - RECOMB-SEQ 2013, BMC Bioinformatics 14(Suppl 5):S14. \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23734605)\]
 - Florea L, **Song L** and Salzberg SL, *Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues*, F1000 Research 2013, 2:188. \[[Full text](http://f1000research.com/articles/2-188/v1)\]
 
-
+## Preprints
+- **Song L**, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Biorxiv, 2023. \[[Full text](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1)\]
