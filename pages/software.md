@@ -14,7 +14,7 @@ permalink: /software/
 - [**T1K**](https://github.com/mourisl/T1K): Genotyper for highly polymorphic genes including KIR and HLA. T1K is verstile and works with RNA-seq, WGS and WES data. T1K also identifies novel SNPs and is compatible with single-cell RNA-seq data. [![Anaconda-Server Badge](https://anaconda.org/bioconda/t1k/badges/downloads.svg)](https://anaconda.org/bioconda/t1k)
 
 ### Microbiome
-- [**Centrifuger**](https://github.com/mourisl/centrifuger): Fast and memory-efficient classifier for metagenomics sequences using a lossless compressed FM-index with run-block compressed BWT. It requires about 43 Gb memory for a database containing 140 Gbp prokaryotic genome nucleotides. 
+- [**Centrifuger**](https://github.com/mourisl/centrifuger): Fast and memory-efficient classifier for metagenomics sequences using a lossless compressed FM-index with run-block compressed BWT. It requires about 43 Gb memory for a database containing 140 Gbp prokaryotic genome nucleotides. [![Anaconda-Server Badge](https://anaconda.org/bioconda/centrifuger/badges/downloads.svg)](https://anaconda.org/bioconda/centrifuger) 
 - [**Centrifuge**](https://github.com/DaehwanKimLab/centrifuge): Fast and memory-efficient classifier for metagenomics sequences using an FM-index. It requires only 4.2 Gb memory for a database containing ~4300 prokaryotic genomes. [![Anaconda-Server Badge](https://anaconda.org/bioconda/centrifuge/badges/downloads.svg)](https://anaconda.org/bioconda/centrifuge)
 
 ### RNA-seq 
