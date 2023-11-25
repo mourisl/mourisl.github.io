@@ -6,6 +6,9 @@ permalink: /news
 
 # News and Events
 ## 2023
+#### November
+The first preprint from our lab is out on [Biorxiv](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1), describing the method [Centrifuger](https://github.com/mourisl/centrifuger) that conduct taxonomy classification for sequencing data on a losslessly compressed FM-index. You can find the Tweetorial [here](https://twitter.com/mourisl/status/1725734485616918805). 
+
 #### September
 - Two Dartmouth QBS master students, Mingliang Ge and Park Lambert, join the lab as research assistants. Welcome!
 - Yifei Gao joins the lab for her Dartmouth QBS PhD rotation. Welcome!
