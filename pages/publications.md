@@ -8,7 +8,7 @@ permalink: /publication
 # Publications
 
 You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more details<br>
-\# Co-First authors; \* Co-corresponding authors
+\# Co-First authors; \* Corresponding author
 ## Journal Publications
 - **Song L**, Bai G, Liu XS, Li B and Li H, *Efficient and accurate KIR and HLA genotyping with massive parallel sequencing data*. Genome Res. 2023 Jun;33(6):923-931. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/)\]
 - Yang L, Wang J, Altreuter J, Jhaveri A, ..., **Song L**, ..., Liu Y, Liu XS, *Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA*. Nat Protoc. 2023 Jun 30. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37391666/)\]
@@ -28,4 +28,4 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEE
 - Florea L, **Song L** and Salzberg SL, *Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues*, F1000 Research 2013, 2:188. \[[Full text](http://f1000research.com/articles/2-188/v1)\]
 
 ## Preprints
-- **Song L**, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Biorxiv, 2023. \[[Full text](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1)\]
+- **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Biorxiv, 2023. \[[Full text](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1)\]
