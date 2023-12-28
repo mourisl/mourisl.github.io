@@ -25,7 +25,7 @@ permalink: /software/
 
 ### Next-generation sequencing
 - [**Chromap**](https://github.com/haowenz/chromap): Ultrafast alignment and preprocessing for chromatin profiling sequencing data, including ChIP-seq, ATAC-seq and Hi-C. It supports both bulk and single-cell platforms, and is more than 10 times faster than traditional workflows without sacrificing alignment accuracy. [![Anaconda-Server Badge](https://anaconda.org/bioconda/chromap/badges/downloads.svg)](https://anaconda.org/bioconda/chromap)
-- [**Lighter**](https://github.com/mourisl/Lighter): Fast and memory-efficient k-mer-based software to correct the sequencing errors from whole genome sequencing data without counting. It samples the k-mers in the data set and uses two memory-efficient Bloom filters to obtain solid k-mers. [![GitHub Repo stars](https://img.shields.io/github/stars/mourisl/lighter)]
+- [**Lighter**](https://github.com/mourisl/Lighter): Fast and memory-efficient k-mer-based software to correct the sequencing errors from whole genome sequencing data without counting. It samples the k-mers in the data set and uses two memory-efficient Bloom filters to obtain solid k-mers. [![GitHub Repo stars](https://img.shields.io/github/stars/mourisl/lighter)](https://github.com/mourisl/Lighter)
 [![Anaconda-Server Badge](https://anaconda.org/bioconda/lighter/badges/downloads.svg)](https://anaconda.org/bioconda/lighter)
 
 ### Figure plotting
