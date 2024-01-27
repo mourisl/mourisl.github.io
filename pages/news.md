@@ -5,6 +5,7 @@ permalink: /news
 ---
 
 # News and Events
+- **[2023/09]** Boyuan Hu, a Thayer master student, joins the lab as the research assistant. Welcome!
 - **[2023/12]** Our work [Centrifuger](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1) is accepted for [RECOMB2024](https://recomb.org/recomb2024/index.html)!
 - **[2023/12]** Li gives a talk about [Centrifuger](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1) at Cold Spring Harbor Laboratory Conference on Genome Informatics! 
 - **[2023/11]** The first preprint from our lab is out on [Biorxiv](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1), describing the method [Centrifuger](https://github.com/mourisl/centrifuger) that conduct taxonomy classification for sequencing data on a losslessly compressed FM-index. You can find the Tweetorial [here](https://twitter.com/mourisl/status/1725734485616918805). 
