@@ -29,3 +29,4 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEE
 
 ## Preprints
 - **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Biorxiv, 2023. \[[Full text](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1)\] (accepted at RECOMB2024)
+-Zhou Y, **Song L** and Li H, Full resolution HLA and KIR genes annotation for human genome assemblies, Biorxiv, 2024. \[[Full text](https://www.biorxiv.org/content/10.1101/2024.01.20.576452v1)\] 
