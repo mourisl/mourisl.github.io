@@ -5,6 +5,7 @@ permalink: /news
 ---
 
 # News and Events
+- **[2024/04]** Our work [Centrifuger](https://github.com/mourisl/centrifuger) for sequencing data taxonomic classification is officially published on [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03244-4)! This is the first publication from Song Lab!
 - **[2024/01]** Boyuan Hu, a Thayer master student, joins the lab as the research assistant. Welcome!
 - **[2023/12]** Our work [Centrifuger](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1) is accepted for [RECOMB2024](https://recomb.org/recomb2024/index.html)!
 - **[2023/12]** Li gives a talk about [Centrifuger](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1) at Cold Spring Harbor Laboratory Conference on Genome Informatics! 
