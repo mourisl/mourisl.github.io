@@ -8,8 +8,9 @@ permalink: /publication
 # Publications
 
 You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more details<br>
-\# Co-First authors; \* Corresponding author
+\# Co-First authors;
 ## Journal Publications
+- **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Genome Biology 25 (1), 1-21. \[[Full text](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03244-4)\] (also in RECOMB2024) (\*:corresponding author)
 - **Song L**, Bai G, Liu XS, Li B and Li H, *Efficient and accurate KIR and HLA genotyping with massive parallel sequencing data*. Genome Res. 2023 Jun;33(6):923-931. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/)\]
 - Yang L, Wang J, Altreuter J, Jhaveri A, ..., **Song L**, ..., Liu Y, Liu XS, *Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA*. Nat Protoc. 2023 Jun 30. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37391666/)\]
 - **Song L**, Ouyang Z, Cohen D, Yang C, ..., Liu XS, *Comprehensive characterizations of immune receptor repertoire in tumors and cancer immunotherapy studies*. Cancer Immunol Res. 2022 Jul 1;10(7):788-799. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/35605261/)\]
@@ -28,6 +29,5 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEE
 - Florea L, **Song L** and Salzberg SL, *Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues*, F1000 Research 2013, 2:188. \[[Full text](http://f1000research.com/articles/2-188/v1)\]
 
 ## Preprints
-- **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Biorxiv, 2023. \[[Full text](https://www.biorxiv.org/content/10.1101/2023.11.15.567129v1)\] (accepted at RECOMB2024)
 - Zhou Y, **Song L** and Li H, *Full resolution HLA and KIR genes annotation for human genome assemblies*, Biorxiv, 2024. \[[Full text](https://www.biorxiv.org/content/10.1101/2024.01.20.576452v1)\]
 - Abdullah L, Emilani F, Vaidya C, ..., **Song L**, ..., Huang Y, *Hierarchal single-cell lineage tracing reveals differential fate commitment of CD8 T-cell clones in response to acute infection*, Biorxiv, 2024. \[[Full text](https://www.biorxiv.org/content/10.1101/2024.03.21.586160v1)\] 
