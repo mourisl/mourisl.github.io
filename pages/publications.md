@@ -10,7 +10,7 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more details<br>
 \# Co-First authors;
 ## Journal Publications
-- **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Genome Biology 25 (1), 1-21. \[[Full text](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03244-4)\] (<span sytle="color:red">**Best Paper Award at RECOMB2024**</span>) (\*:corresponding author)
+- **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Genome Biology 25 (1), 1-21. \[[Full text](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03244-4)\] (<span style="color:red">**Best Paper Award at RECOMB2024**</span>) (\*:corresponding author)
 - **Song L**, Bai G, Liu XS, Li B and Li H, *Efficient and accurate KIR and HLA genotyping with massive parallel sequencing data*. Genome Res. 2023 Jun;33(6):923-931. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/)\]
 - Yang L, Wang J, Altreuter J, Jhaveri A, ..., **Song L**, ..., Liu Y, Liu XS, *Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA*. Nat Protoc. 2023 Jun 30. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37391666/)\]
 - **Song L**, Ouyang Z, Cohen D, Yang C, ..., Liu XS, *Comprehensive characterizations of immune receptor repertoire in tumors and cancer immunotherapy studies*. Cancer Immunol Res. 2022 Jul 1;10(7):788-799. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/35605261/)\]
