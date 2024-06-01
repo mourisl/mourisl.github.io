@@ -5,6 +5,7 @@ permalink: /news
 ---
 
 # News and Events
+- **[2024/05]** Yifei Gao joins the lab for her thesis research. She is the first PhD student of the lab. Welcome! 
 - **[2024/05]** [Centrifuger](https://github.com/mourisl/centrifuger) wins the Best Paper Award at RECOMB2024! 
 - **[2024/04]** Li gives a talk about [Centrifuger](https://github.com/mourisl/centrifuger) at RECOMB2024.
 - **[2024/04]** Our work [Centrifuger](https://github.com/mourisl/centrifuger) for sequencing data taxonomic classification is officially published on [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03244-4)! This is the first publication from Song Lab!
