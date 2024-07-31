@@ -5,6 +5,7 @@ permalink: /news
 ---
 
 # News and Events
+- **[2024/07]** Chenyang Tang, a master graduate from Dartmouth QBS program, and Kevin Zhou, a high school stduent, joins the lab as research interns. Welcome! 
 - **[2024/05]** Yifei Gao joins the lab for her thesis research. She is the first PhD student of the lab. Welcome! 
 - **[2024/05]** [Centrifuger](https://github.com/mourisl/centrifuger) wins the Best Paper Award at RECOMB2024! 
 - **[2024/04]** Li gives a talk about [Centrifuger](https://github.com/mourisl/centrifuger) at RECOMB2024.
