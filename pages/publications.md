@@ -10,7 +10,8 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more details<br>
 \# Co-First authors;
 ## Journal Publications
-- **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Genome Biology 25 (1), 1-21. \[[Full text](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03244-4)\] (<span style="color:blue">**Best Paper Award at RECOMB2024**</span>) (\*:corresponding author)
+- **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Genome Biol. 2024 Apr 25;25(1):106. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/38664753/)\] (<span style="color:blue">**Best Paper Award at RECOMB2024**</span>) (\*:corresponding author)
+- Yu X, **Song L#**, ..., Wang X, *Pan-cancer γδ TCR analysis uncovers clonotype diversity and prognostic potential*, Cell Reports Medicine, 2024 Oct 4. \[[Full text](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00494-4)\] 
 - Zhou Y, **Song L** and Li H, *Full resolution HLA and KIR genes annotation for human genome assemblies*, Genome Res. 2024 Jun 5:gr.278985.124. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/38839374/)\]
 - **Song L**, Bai G, Liu XS, Li B and Li H, *Efficient and accurate KIR and HLA genotyping with massive parallel sequencing data*. Genome Res. 2023 Jun;33(6):923-931. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/)\]
 - Yang L, Wang J, Altreuter J, Jhaveri A, ..., **Song L**, ..., Liu Y, Liu XS, *Tutorial: integrative computational analysis of bulk RNA-sequencing data to characterize tumor immunity using RIMA*. Nat Protoc. 2023 Jun 30. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37391666/)\]
