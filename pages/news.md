@@ -5,6 +5,8 @@ permalink: /news
 ---
 
 # News and Events
+- **[2024/10]** Our collaborative work with Dr. Xuefeng Wang and Dr. Xiaoqing Yu at Moffit Cancer Center to study the γδ TCRs in cancers and cancer immunotherapies is published on [Cell Reports Medicine](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00494-4). The results can also be interactively explored at [Gamma-Delta TCR resource](https://gdt.moffitt.org/) webportal.
+- **[2024/09]** Isabella Baldacci, a master stduent from Dartmouth QBS program, joins the lab as research assistant. Welcome!
 - **[2024/07]** Chenyang Tang, a master graduate from Dartmouth QBS program, and Kevin Zhou, a high school stduent, joins the lab as research interns. Welcome! 
 - **[2024/05]** Yifei Gao joins the lab for her thesis research. She is the first PhD student of the lab. Welcome! 
 - **[2024/05]** [Centrifuger](https://github.com/mourisl/centrifuger) wins the Best Paper Award at RECOMB2024! 

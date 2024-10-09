@@ -17,6 +17,7 @@ permalink: /software/
 - [**T1K**](https://github.com/mourisl/T1K): Genotyper for highly polymorphic genes including KIR and HLA. T1K is verstile and works with RNA-seq, WGS and WES data. T1K also identifies novel SNPs and is compatible with single-cell RNA-seq data. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/mourisl/T1K)](https://github.com/mourisl/T1K)
 [![Anaconda-Server Badge](https://anaconda.org/bioconda/t1k/badges/downloads.svg)](https://anaconda.org/bioconda/t1k)
+- [**VisualzIRR**](http://cistrome.org/visualizirr/): An interactive website to explore immune repertoire features from TCGA and cancer immunotherapy studies. The code to generate the website for custom data set analysis is at [GitHub](https://github.com/d-s-cohen/visualizirr).
 
 ### Microbiome
 - [**Centrifuger**](https://github.com/mourisl/centrifuger): Fast and memory-efficient classifier for metagenomics sequences using a lossless compressed FM-index with run-block compressed BWT. It can assign the taxonomy IDs to each sequencing read by comparing it against a database containing 34,190 prokaryotic genomes with 140 Gbp sequences using about 43 Gb memory. 
