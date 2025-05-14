@@ -5,6 +5,7 @@ permalink: /news
 ---
 
 # News and Events
+- **[2025/05]** Yifei gave a talk about her work on extending [T1K](https://github.com/mourisl/T1K) to genotype the CFTR gene at the conference [GLBIO2025](https://www.iscb.org/glbio2025/home). 
 - **[2025/04]** Yanchu (Ella) Wu and Luwei (Laura) Zeng, master stduents from Dartmouth QBS program, joins the lab for independent study. Welcome! 
 - **[2024/10]** Our collaborative work with Dr. Xuefeng Wang and Dr. Xiaoqing Yu at Moffit Cancer Center to study the γδ TCRs in cancers and cancer immunotherapies is published on [Cell Reports Medicine](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00494-4). The results can also be interactively explored at the [Gamma-Delta TCR resource](https://gdt.moffitt.org/) webportal.
 - **[2024/09]** Isabella Baldacci, a master stduent from Dartmouth QBS program, joins the lab as research assistant. Welcome!
