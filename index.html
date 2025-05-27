@@ -26,12 +26,33 @@ use-site-title: true
 
 <div class="container">
     <div class="row">
+       <p>We are looking for passionate <b>postdocs, graduate students, and rotation students to join our team!</b> Please contact Li.Song@dartmouth.edu to discuss. Students can apply Dartmouth <a href="https://geiselmed.dartmouth.edu/qbs/">Quantative Biomedical Sciences</a> program or <a href="https://web.cs.dartmouth.edu/">Department of Computer Science</a>.</p>
         <p>
+        <hr />
         <h2>Research interests</h2>
         <p>
 				Our research interest is to design algorithms and developing highly-efficent methods to analyze sequencing data. These methods have been widely used to investigate immune receptors, microbiome and transcriptome.
         </p>
-        <p>We are looking for passionate <b>postdocs, graduate students, and rotation students to join our team!</b> Please contact Li.Song@dartmouth.edu to discuss. Students can apply Dartmouth <a href="https://geiselmed.dartmouth.edu/qbs/">Quantative Biomedical Sciences</a> program or <a href="https://web.cs.dartmouth.edu/">Department of Computer Science</a>.</p>
+        <h4> Computational Immunology </h4>
+        <p>
+        Many immune-related genes are not well represented on human reference genome, and requires specialized method to analyze. One example is the T-cell receptor (TCR) and B-cell receptor (BCR) that can be different from cell to cell. We have developed the method <a href="https://github.com/liulab-dfci/TRUST4">TRUST4</a> to <em>de novo</em>-ly assemble these receptors from bulk and single-cell RNA-seq data. We have applied TRUST4 to study how the immune repertoire change in various diseases, such as cancers. Another immune gene is HLA and KIR, which can be different from people to people. Therefore, we developed the method <a href="https://github.com/mourisl/T1K">T1K</a> to genotype these highly polymorphic immune genes. Currently, we are particularly interested in improving these methods and applying them to disease studies.
+        </p>
+        <h4> Computational Microbiology </h4>
+        <p>
+        The challenge in identifying microbiome composition from sequencing data is to align the reads to the huge microbial genome database which is difficult to store in memory. We have developed the method <a href="https://github.com/mourisl/centrifuger"> Centrifuger</a> that can losslessly compressing the microbial database for taxonomic classification. This method improves our previous method <a href="https://github.com/DaehwanKimLab/centrifuge"> Centrifuge</a>. Our future goal is keeping improving Centrifuger, in data structure and classificaiton accuracy, and applying it to more microbiome studies.
+        </p>
+        <hr />
+        <h2>Selected Publications</h2>
+        <p>
+        <ul>
+          <li><strong>Song L*</strong>, Langmead B, <em>Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification</em>, Genome Biol. 2024 Apr 25;25(1):106. [<a href="https://pubmed.ncbi.nlm.nih.gov/38664753/">PubMed</a>] (<span style="color:blue"><strong>Best Paper Award at RECOMB2024</strong></span>) (*:corresponding author)</li>
+          <li><strong>Song L</strong>,  Cohen, D, Ouyang, Z, Cao, Y, Hu, X and Liu, XS, <em>TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data</em>. Nat Methods. 2021 Jun;18(6):627-630. [<a href="https://pubmed.ncbi.nlm.nih.gov/33986545/">PubMed</a>]</li>
+          <li><strong>Song L</strong>, Bai G, Liu XS, Li B and Li H, <em>Efficient and accurate KIR and HLA genotyping with massive parallel sequencing data</em>. Genome Res. 2023 Jun;33(6):923-931. [<a href="https://pubmed.ncbi.nlm.nih.gov/37169596/">PubMed</a>]</li>
+          <li>Zhang H, <strong>Song L#</strong>, …, Liu XS, Li H, <em>Fast alignment and preprocessing of chromatin profiles with Chromap</em>. Nat Commun. 2021 Nov 12;12(1):6566. [<a href="https://pubmed.ncbi.nlm.nih.gov/34772935/">PubMed</a>] (#: co-first author)</li>
+          <li><strong>Song L</strong>, Sabunciyan S, Yang G and Florea L, <em>A multi-sample approach increases the accuracy of transcript assembly</em>. Nat Commun. 2019 Nov 1;10(1):5000. [<a href="https://pubmed.ncbi.nlm.nih.gov/31676772/">PubMed</a>]</li>
+        </ul>
+        See full publication list of our lab <a href=https://mourisl.github.io/publication>here</a>.
+        </p>
     </div>
 </div>
 
