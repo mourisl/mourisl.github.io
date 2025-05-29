@@ -5,6 +5,7 @@ permalink: /news
 ---
 
 # News and Events
+- **[2025/05]** Yifei successfully passed her PhD qualifying exam. Congratulations!
 - **[2025/05]** Yifei won the Best Talk Award at the conference [GLBIO2025](https://www.iscb.org/glbio2025/home). Congratulations! 
 - **[2025/05]** Yifei gave a talk about her work on extending [T1K](https://github.com/mourisl/T1K) to genotype the CFTR gene at the conference [GLBIO2025](https://www.iscb.org/glbio2025/home). 
 - **[2025/04]** Yanchu (Ella) Wu and Luwei (Laura) Zeng, master stduents from Dartmouth QBS program, joins the lab for independent study. Welcome! 
