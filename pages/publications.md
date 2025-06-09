@@ -10,6 +10,7 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more details<br>
 \# Co-First authors;
 ## Journal Publications
+- Abdullah L, Emilani F, Vaidya C, ..., **Song L**, ..., Huang Y, *The endogenous antigen-specific CD8+ T cell repertoire is composed of unbiased and biased clonotypes with differential fate commitments*, Immunity. 2025 Mar 11;58(3):601-615.e9. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/40020673/)\] 
 - **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Genome Biol. 2024 Apr 25;25(1):106. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/38664753/)\] (<span style="color:blue">**Best Paper Award at RECOMB2024**</span>) (\*:corresponding author)
 - Yu X, **Song L#**, ..., Wang X, *Pan-cancer γδ TCR analysis uncovers clonotype diversity and prognostic potential*, Cell Reports Medicine, 2024 Oct 4. \[[Full text](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00494-4)\] 
 - Zhou Y, **Song L** and Li H, *Full resolution HLA and KIR genes annotation for human genome assemblies*, Genome Res. 2024 Jun 5:gr.278985.124. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/38839374/)\]
@@ -29,6 +30,3 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEE
 - **Song L**, Florea L and Langmead B, *Lighter: fast and memory-efficient sequencing error correction without Counting*, Genome Biol. 2014;15(11):509. \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25398208)\]
 - **Song L** and Florea L, *CLASS: constrained transcript assembly of RNA-seq reads*, Third Annual RECOMB Satellite Workshop on Massively Parallel Sequencing - RECOMB-SEQ 2013, BMC Bioinformatics 14(Suppl 5):S14. \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23734605)\]
 - Florea L, **Song L** and Salzberg SL, *Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues*, F1000 Research 2013, 2:188. \[[Full text](http://f1000research.com/articles/2-188/v1)\]
-
-## Preprints
-- Abdullah L, Emilani F, Vaidya C, ..., **Song L**, ..., Huang Y, *Hierarchal single-cell lineage tracing reveals differential fate commitment of CD8 T-cell clones in response to acute infection*, Biorxiv, 2024. \[[Full text](https://www.biorxiv.org/content/10.1101/2024.03.21.586160v1)\] 
