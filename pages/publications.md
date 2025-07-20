@@ -30,3 +30,6 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEE
 - **Song L**, Florea L and Langmead B, *Lighter: fast and memory-efficient sequencing error correction without Counting*, Genome Biol. 2014;15(11):509. \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25398208)\]
 - **Song L** and Florea L, *CLASS: constrained transcript assembly of RNA-seq reads*, Third Annual RECOMB Satellite Workshop on Massively Parallel Sequencing - RECOMB-SEQ 2013, BMC Bioinformatics 14(Suppl 5):S14. \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23734605)\]
 - Florea L, **Song L** and Salzberg SL, *Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues*, F1000 Research 2013, 2:188. \[[Full text](http://f1000research.com/articles/2-188/v1)\]
+
+## Preprints
+- Ahmed O, Zhang H, Langmead B, and **Song L**, *Quality control of single-cell ATAC-seq data without peak calling using Chromap*, Biorxiv, 2025. \[[Full text](https://www.biorxiv.org/content/10.1101/2025.07.15.664951v1)\]
