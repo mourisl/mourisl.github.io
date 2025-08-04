@@ -27,6 +27,14 @@ permalink: /software/
 [![GitHub Repo stars](https://img.shields.io/github/stars/DaehwanKimLab/centrifuge)](https://github.com/DaehwanKimLab/centrifuge)
 [![Anaconda-Server Badge](https://anaconda.org/bioconda/centrifuge/badges/downloads.svg)](https://anaconda.org/bioconda/centrifuge)
 
+### Next-generation sequencing
+- [**Chromap**](https://github.com/haowenz/chromap): Ultrafast alignment and preprocessing for chromatin profiling sequencing data, including ChIP-seq, ATAC-seq and Hi-C. It supports both bulk and single-cell platforms, and is more than 10 times faster than traditional workflows without sacrificing alignment accuracy. 
+[![GitHub Repo stars](https://img.shields.io/github/stars/haowenz/chromap)](https://github.com/haowenz/chromap)
+[![Anaconda-Server Badge](https://anaconda.org/bioconda/chromap/badges/downloads.svg)](https://anaconda.org/bioconda/chromap)
+- [**Lighter**](https://github.com/mourisl/Lighter): Fast and memory-efficient k-mer-based software to correct the sequencing errors from whole genome sequencing data without counting. It samples the k-mers in the data set and uses two memory-efficient Bloom filters to obtain solid k-mers. 
+[![GitHub Repo stars](https://img.shields.io/github/stars/mourisl/lighter)](https://github.com/mourisl/Lighter)
+[![Anaconda-Server Badge](https://anaconda.org/bioconda/lighter/badges/downloads.svg)](https://anaconda.org/bioconda/lighter)
+
 ### RNA-seq 
 - [**CLASS/CLASS2**](https://github.com/mourisl/CLASS): Efficient and accurate transcript assemblers for RNA-seq data that detect more fine-grained alternative splice variants. The programs combine linear programming algorithms to detect exons from read coverage levels, with splice graph representations of genes and their splice variants, and memory efficient optimization algorithms for transcript selection. \[Also on [SourceForge](https://sourceforge.net/projects/splicebox/)\]
 [![GitHub Repo stars](https://img.shields.io/github/stars/mourisl/CLASS)](https://github.com/mourisl/CLASS)
@@ -39,14 +47,6 @@ permalink: /software/
 - [**Rascaf**](https://github.com/mourisl/Rascaf): Scaffolding with RNA-seq read alignment. It uses information from paired-end and split reads to improve the completeness and contiguity of a draft genome assembly, particularly in the gene regions. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/mourisl/rascaf)](https://github.com/mourisl/rascaf)
 [![Anaconda-Server Badge](https://anaconda.org/bioconda/rascaf/badges/downloads.svg)](https://anaconda.org/bioconda/rascaf) 
-
-### Next-generation sequencing
-- [**Chromap**](https://github.com/haowenz/chromap): Ultrafast alignment and preprocessing for chromatin profiling sequencing data, including ChIP-seq, ATAC-seq and Hi-C. It supports both bulk and single-cell platforms, and is more than 10 times faster than traditional workflows without sacrificing alignment accuracy. 
-[![GitHub Repo stars](https://img.shields.io/github/stars/haowenz/chromap)](https://github.com/haowenz/chromap)
-[![Anaconda-Server Badge](https://anaconda.org/bioconda/chromap/badges/downloads.svg)](https://anaconda.org/bioconda/chromap)
-- [**Lighter**](https://github.com/mourisl/Lighter): Fast and memory-efficient k-mer-based software to correct the sequencing errors from whole genome sequencing data without counting. It samples the k-mers in the data set and uses two memory-efficient Bloom filters to obtain solid k-mers. 
-[![GitHub Repo stars](https://img.shields.io/github/stars/mourisl/lighter)](https://github.com/mourisl/Lighter)
-[![Anaconda-Server Badge](https://anaconda.org/bioconda/lighter/badges/downloads.svg)](https://anaconda.org/bioconda/lighter)
 
 ### Figure plotting
 ##### Python libraries to help with plotting figures
