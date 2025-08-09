@@ -47,6 +47,12 @@ use-site-title: true
         <p>
         The challenge in identifying microbiome composition from sequencing data is to align the reads to the huge microbial genome database which is difficult to store in memory. We have developed the method <a href="https://github.com/mourisl/centrifuger"> Centrifuger</a> that can losslessly compressing the microbial database for taxonomic classification. This method improves our previous method <a href="https://github.com/DaehwanKimLab/centrifuge"> Centrifuge</a>. Our future goal is keeping improving Centrifuger, in data structure and classificaiton accuracy, and applying it to more microbiome studies.
         </p>
+
+        <h4> Sequencing data processing </h4>
+        <p>
+        Many sequencing data analysis just requires accurate read mapping coordinate and can tolerate slighly lower accuracy in base-level alignment, such as for ATAC-seq and Hi-C data. We have developed the method <a href="">Chromap</a> for ultrafast chromatin profiling data processing, including read mapping and preprocessing. The processing stesp including sorting, deduplication, and generating QC metrics. For the scATAC-seq data QC report, Chromap can even output meaningful peak-based QC metrics, like FRIP score, for each cell without calling actual peaks.
+        </p>
+
         <hr />
         <h2>Selected Publications</h2>
         <p>
