@@ -5,7 +5,7 @@ permalink: /news
 ---
 
 # News and Events
-- **[2025/07]** The present for descrbing a cool new feature in [Chromap](https://github.com/haowenz/chromap) is out on [Biorxiv](https://www.biorxiv.org/content/10.1101/2025.07.15.664951v1). The new Chromap version can estimate peak-based QC metrics, like FRIP scores, for scATAC-seq without calling peaks.
+- **[2025/07]** The preprint for descrbing a cool new feature in [Chromap](https://github.com/haowenz/chromap) is out on [Biorxiv](https://www.biorxiv.org/content/10.1101/2025.07.15.664951v1). The new Chromap version can estimate peak-based QC metrics, like FRIP scores, for scATAC-seq without calling peaks.
 - **[2025/06]** Congratulations on Yifei winning the QBS TA Award!
 - **[2025/05]** Yifei successfully passed her PhD qualifying exam. Congratulations!
 - **[2025/05]** Yifei won the Best Talk Award at the conference [GLBIO2025](https://www.iscb.org/glbio2025/home). Congratulations! 
