@@ -5,10 +5,11 @@ permalink: /news
 ---
 
 # News and Events
-- **[2025/03]** Our collaborative work with Dr. Ran Xu and Dr. Andrew Lane at Dana-Farber Cancer Institute to study minimal residual disease cells from CAR-T treated mantle cell lymphoma is published on [Blood Advanceds](https://ashpublications.org/bloodadvances/article/doi/10.1182/bloodadvances.2025016688/567289/Live-cell-Pick-Seq-LiP-Seq-Interrogating-ultra)!
-- **[2025/02]** Eddie Bae and Srishth Tiwari join the lab as undergrad research assistants. Welcome!
+- **[2026/03]** Our collaborative work with Dr. Ran Xu and Dr. Andrew Lane at Dana-Farber Cancer Institute to study minimal residual disease cells from CAR-T treated mantle cell lymphoma is published on [Blood Advanceds](https://ashpublications.org/bloodadvances/article/doi/10.1182/bloodadvances.2025016688/567289/Live-cell-Pick-Seq-LiP-Seq-Interrogating-ultra)!
+- **[2026/03]** Kristine Xu joins the lab for her Dartmouth QBS PhD rotation. Welcome!
+- **[2026/02]** Eddie Bae and Srishth Tiwari join the lab as undergrad research assistants. Welcome!
 - **[2025/11]** Li Song gives a talk "Quality control of single-cell ATAC-seq data without peak calling using Chromap" at the conference Genome Informatics 2025 at CSHL.
-- **[2025/09]** Shizhao Yang joins the lab for her Dartmouth QBS PhD rotation. Welcome!
+- **[2025/09]** Shizhao Yang joins the lab for his Dartmouth QBS PhD rotation. Welcome!
 - **[2025/09]** Li Song gives a seminar "Finding immune receptors and microbes from sequencing data" at the BIDS Rising Star Seminar series at Yale.
 - **[2025/07]** The preprint for descrbing a cool new feature in [Chromap](https://github.com/haowenz/chromap) is out on [Biorxiv](https://www.biorxiv.org/content/10.1101/2025.07.15.664951v1). The new Chromap version can estimate peak-based QC metrics, like FRIP scores, for scATAC-seq without calling peaks.
 - **[2025/06]** Congratulations on Yifei winning the QBS TA Award!
