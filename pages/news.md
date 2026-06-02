@@ -5,6 +5,7 @@ permalink: /news
 ---
 
 # News and Events
+- **[2024/05]** Jiaqian (Kristine) Xu joins the lab for her thesis research. Welcome! 
 - **[2026/03]** Our collaborative work with Dr. Ran Xu and Dr. Andrew Lane at Dana-Farber Cancer Institute to study minimal residual disease cells from CAR-T treated mantle cell lymphoma is published on [Blood Advanceds](https://ashpublications.org/bloodadvances/article/doi/10.1182/bloodadvances.2025016688/567289/Live-cell-Pick-Seq-LiP-Seq-Interrogating-ultra)!
 - **[2026/03]** Kristine Xu joins the lab for her Dartmouth QBS PhD rotation. Welcome!
 - **[2026/02]** Eddie Bae and Sreshth Tiwari join the lab as undergrad research assistants. Welcome!
