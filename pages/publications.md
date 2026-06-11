@@ -10,6 +10,7 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more details<br>
 \# Co-First authors;
 ## Journal Publications
+- Xu R, ...,**Gao Y**, ..., **Song L\***, Lane AA, Live-cell Pick-Seq (LiP-Seq): Interrogating ultra-rare mantle cell lymphoma persistent cells after CART19 therapy, Blood Adv. 2026 Jun 9;10(11):3845-3855. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/41855504/)\] (*co-corresponding author)
 - Abdullah L, Emilani F, Vaidya C, ..., **Song L**, ..., Huang Y, *The endogenous antigen-specific CD8+ T cell repertoire is composed of unbiased and biased clonotypes with differential fate commitments*, Immunity. 2025 Mar 11;58(3):601-615.e9. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/40020673/)\] 
 - **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Genome Biol. 2024 Apr 25;25(1):106. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/38664753/)\] (<span style="color:blue">**Best Paper Award at RECOMB2024**</span>) (\*:corresponding author)
 - Yu X, **Song L#**, ..., Wang X, *Pan-cancer γδ TCR analysis uncovers clonotype diversity and prognostic potential*, Cell Reports Medicine, 2024 Oct 4. \[[Full text](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00494-4)\] 
