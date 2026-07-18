@@ -33,4 +33,6 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEE
 - Florea L, **Song L** and Salzberg SL, *Thousands of exon skipping events differentiate among splicing patterns in sixteen human tissues*, F1000 Research 2013, 2:188. \[[Full text](http://f1000research.com/articles/2-188/v1)\]
 
 ## Preprints
-- Ahmed O, Zhang H, Langmead B, and **Song L**, *Quality control of single-cell ATAC-seq data without peak calling using Chromap*, Biorxiv, 2025. \[[Full text](https://www.biorxiv.org/content/10.1101/2025.07.15.664951v1)\]
+- Vaidya CM,…, **Song L\***, Ackerman ME, RAD: A Read-structure Agnostic Demultiplexer for Single-Cell Long-Read Sequencing and Analysis. bioRxiv. 2026 Jun 02 (*co-corresponding author)
+- Zhou J, Zhang Q, **Song L**, He X, Zhao S, Detecting context-dependent selection on cancer driver genes with DiffDriver. bioRxiv. 2026 Apr 09 
+- Ahmed O, Zhang H, Langmead B, and **Song L**, *Quality control of single-cell ATAC-seq data without peak calling using Chromap*, bioRxiv, 2025 Jul 18. \[[Full text](https://www.biorxiv.org/content/10.1101/2025.07.15.664951v1)\]
