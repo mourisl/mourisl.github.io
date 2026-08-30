@@ -6,12 +6,10 @@ permalink: /open_positions
 
 ## We are actively hiring!
 ### For postdocs.
-We are looking for postdocs in the areas of computational immunology, computational microbiology, or algorithm and data structure development. Specifically in the areas of:
-
-1) Large-scale biological database and web portal. 
-2) TCR/BCR modeling and antigen specificity analysis. 
-3) Low-level data structures to search huge microbial genome databases. 
-
+We are looking for postdocs in the areas of computational immunology, computational microbiology, or algorithm and data structure development. Specifically in the areas of:  
+1) Large-scale biological database and web portal.  
+2) TCR/BCR modeling and antigen specificity analysis.   
+3) Low-level data structures to search huge microbial genome databases.  
 Welcome to contact email Li.Song@dartmouth.edu! If possible please include (1) CV or Resume (2) A short research statement describing previous/ongoing work and proposed research and interest (3) Contact information of three references. Thanks!
 
 
