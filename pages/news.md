@@ -5,7 +5,8 @@ permalink: /news
 ---
 
 # News and Events
-- **[2026/08]** Our lab receives its first NIH R01 grant! This NIH NIAID grant will study the TCR and microbe interactions from publicly available sequencing data. 
+- **[2026/09]** Ziyu (Eric) Liu joins the lab for his Dartmouth QBS PhD rotation. Welcome! 
+- **[2026/08]** <span style="color:red">Our lab receives its first NIH R01 grant! This NIH NIAID grant will study the TCR and microbe interactions from publicly available sequencing data.</span> 
 - **[2026/06]** Li Song and Yifei Gao present their posters on TRUST4 and cystic fibroisis at the [AIRR Community Meeting VIII](https://web.cvent.com/event/79e221fa-7088-4045-8906-bbb0ca938d0f/summary) at Yale.
 - **[2026/05]** Jiaqian (Kristine) Xu joins the lab for her thesis research. Welcome! 
 - **[2026/03]** Our collaborative work with Dr. Ran Xu and Dr. Andrew Lane at Dana-Farber Cancer Institute to study minimal residual disease cells from CAR-T treated mantle cell lymphoma is published on [Blood Advanceds](https://ashpublications.org/bloodadvances/article/doi/10.1182/bloodadvances.2025016688/567289/Live-cell-Pick-Seq-LiP-Seq-Interrogating-ultra)!
