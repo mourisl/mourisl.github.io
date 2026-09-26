@@ -3,6 +3,19 @@ layout: default
 title: 404 - Page not found
 permalink: /404.html
 ---
+<script>
+  // Case-insensitive redirect for project sites whose Pages URL is case-sensitive.
+  (function () {
+    var parts = location.pathname.split('/');
+    if (parts[1] && parts[1] !== 'TRUST4' && parts[1].toLowerCase() === 'trust4') {
+      parts[1] = 'TRUST4';
+      var path = parts.join('/');
+      if (parts.length === 2) path += '/';
+      location.replace(path + location.search + location.hash);
+    }
+  })();
+</script>
+
 
 <div class="text-center">
   <h1>Whoops, this page doesn't exist.</h1>
