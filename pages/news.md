@@ -5,7 +5,7 @@ permalink: /news
 ---
 
 # News and Events
-- **[2023/11]** [Centrifuger](https://github.com/mourisl/centrifuger) can now conduct taxonomic classification against a protein database. We design a new run-block compression scheme that is suitable for amino acid alphabet and the preprint is at [Biorxiv](https://www.biorxiv.org/content/10.64898/2026.09.17.752512v1).
+- **[2026/09]** [Centrifuger](https://github.com/mourisl/centrifuger) can now conduct taxonomic classification against a protein database. We design a new run-block compression scheme that is suitable for amino acid alphabet and the preprint is at [Biorxiv](https://www.biorxiv.org/content/10.64898/2026.09.17.752512v1).
 - **[2026/09]** Ziyu (Eric) Liu joins the lab for his Dartmouth QBS PhD rotation. Welcome! 
 - **[2026/08]** <span style="color:red">Our lab receives its first NIH R01 grant! This NIH NIAID grant will study the TCR and microbe interactions from publicly available sequencing data.</span> 
 - **[2026/06]** Li Song and Yifei Gao present their posters on TRUST4 and cystic fibroisis at the [AIRR Community Meeting VIII](https://web.cvent.com/event/79e221fa-7088-4045-8906-bbb0ca938d0f/summary) at Yale.
