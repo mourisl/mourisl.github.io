@@ -21,7 +21,7 @@ permalink: /software/
 
 ### Microbiome
 - [**Centrifuger**](https://github.com/mourisl/centrifuger): Fast and memory-efficient classifier for metagenomics sequences using a lossless compressed FM-index with run-block compressed BWT. It can assign the taxonomy IDs to each sequencing read by comparing it against a database containing 34,190 prokaryotic genomes with 140 Gbp sequences using about 43 Gb memory. 
-[![GitHub Repo stars](https://img.shields.io/github/stars/mourisl/centrifuger)](https://github.com/mourisl/centrifuger)
+[![GitHub Repo stars](https://img.shields.io/github/stars/mourisl/centrifuger)](https://github.com/mourisl/centrifuger) [Web browser version](https://mourisl.github.io/centrifuger-ol/)
 [![Anaconda-Server Badge](https://anaconda.org/bioconda/centrifuger/badges/downloads.svg)](https://anaconda.org/bioconda/centrifuger) 
 - [**Centrifuge**](https://github.com/DaehwanKimLab/centrifuge): Fast and memory-efficient classifier for metagenomics sequences using an FM-index. It requires only 4.2 Gb memory for a database containing ~4300 prokaryotic genomes using lossy representations. 
 [![GitHub Repo stars](https://img.shields.io/github/stars/DaehwanKimLab/centrifuge)](https://github.com/DaehwanKimLab/centrifuge)
